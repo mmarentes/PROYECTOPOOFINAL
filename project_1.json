@@ -1,0 +1,24 @@
+{
+    "id": 1,
+    "name": "1",
+    "description": "1",
+    "budget": 1.0,
+    "expenses": 0.0,
+    "members": [
+        "1",
+        "12"
+    ],
+    "tasks": [
+        {
+            "task": "Direcci\u00f3n de fotograf\u00eda",
+            "team": "Equipo de movimiento de c\u00e1maras",
+            "improvement": "Incluir m\u00e1s transiciones en el video"
+        },
+        {
+            "task": "Grabaci\u00f3n de voz en off",
+            "team": "Equipo de guion",
+            "improvement": "Incorporar efectos especiales"
+        }
+    ],
+    "suggestions": []
+}
